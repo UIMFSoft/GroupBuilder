@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/UIMF
+    username: postgres
+    password: root
+    platform: postgres
+#    pool-size:30
